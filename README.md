@@ -1,5 +1,7 @@
 # Multimodal Patient-Specific Identification of Atrial Flutter Circuits From ECG Time Series Using Explainable Machine Learning
 
+S. Ruipérez-Campillo et al., "Multimodal Patient-Specific Identification of Atrial Flutter Circuits from ECG Time Series Using Explainable Machine Learning," in IEEE Journal of Translational Engineering in Health and Medicine, doi: 10.1109/JTEHM.2026.3694616.
+
 MATLAB pipeline for the classification of atrial flutter subtypes from the
 standard 12-lead ECG, by means of:
 
@@ -183,9 +185,9 @@ is held under restricted access at the hospital of origin. See
 
 If you use this code, please cite the associated paper:
 
-> [Citation to be added once the paper is published.]
+S. Ruipérez-Campillo et al., "Multimodal Patient-Specific Identification of Atrial Flutter Circuits from ECG Time Series Using Explainable Machine Learning," in IEEE Journal of Translational Engineering in Health and Medicine, doi: 10.1109/JTEHM.2026.3694616.
 
-A preprint is available at: [link to be added].
+Link: https://ieeexplore.ieee.org/document/11523481
 
 ---
 
