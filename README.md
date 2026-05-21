@@ -191,7 +191,7 @@ A preprint is available at: [link to be added].
 
 ## Authors
 
-[To be filled in after consultation with collaborators.]
+Samuel Ruiperez-Campillo, David Hernando, Elisa Ramirez, Sergio Castrejon, Cecilia Zapata, Carlos Rodriguez Carneiro, Julia E. Vogt, Jose Luis Merino, Francisco Castells, Jose Millet
 
 ---
 
